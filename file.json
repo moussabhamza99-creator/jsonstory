@@ -1,1 +1,133 @@
-
+[
+  {
+    "id": "story_1",
+    "title": "Le Dragon et la Princesse Courageuse",
+    "description": "Une aventure magique où une princesse découvre que les dragons ne sont pas ce qu'ils semblent être",
+    "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/dragon_princess.jpg",
+    "category": "FAIRYTALE",
+    "content": {
+      "introduction": [
+        {
+          "text": "Il était une fois, dans un royaume lointain, une princesse nommée Élise qui n'avait pas peur des défis. Alors que tous les chevaliers du royaume tremblaient à l'idée d'affronter le dragon des montagnes, Élise décida de partir à sa rencontre."
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/princess_start.jpg",
+          "description": "La princesse Élise devant le château"
+        }
+      ],
+      "development": [
+        {
+          "text": "Après trois jours de marche dans la forêt enchantée, Élise arriva enfin au pied de la montagne du dragon. Contrairement à ce qu'on racontait, la grotte n'était pas sombre et effrayante, mais remplie de cristaux lumineux."
+        },
+        {
+          "text": "Le dragon, nommé Saphir, n'était pas un monstre cruel mais une créature solitaire qui protégeait un œuf magique. 'Les humains ont peur de ce qu'ils ne connaissent pas', expliqua Saphir d'une voix douce."
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/dragon_cave.jpg",
+          "description": "La grotte cristalline du dragon Saphir"
+        }
+      ],
+      "middleImage": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/coloring_dragon.png",
+      "conclusion": [
+        {
+          "text": "Élise et Saphir devinrent amis. La princesse retourna au château et expliqua à tous que le dragon n'était pas dangereux. Ensemble, ils organisèrent une grande fête où humains et créatures magiques apprirent à se connaître."
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/festival.jpg",
+          "description": "La grande fête du royaume"
+        }
+      ],
+      "moral": [
+        {
+          "text": "Cette histoire nous apprend qu'il ne faut pas juger les autres sur leur apparence ou sur les rumeurs. La véritable courage n'est pas de combattre ce qui nous fait peur, mais d'aller à sa rencontre pour mieux le comprendre."
+        }
+      ]
+    }
+  },
+  {
+    "id": "story_2",
+    "title": "L'Expédition dans la Jungle Mystérieuse",
+    "description": "Deux jeunes explorateurs découvrent les secrets d'une jungle où les animaux parlent",
+    "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/jungle_adventure.jpg",
+    "category": "ADVENTURE",
+    "content": {
+      "introduction": [
+        {
+          "text": "Léo et Maya, deux frère et sœur passionnés d'exploration, avaient entendu parler d'une jungle mystérieuse où les animaux possédaient des pouvoirs extraordinaires. Un matin, ils décidèrent de vérifier ces légendes par eux-mêmes."
+        }
+      ],
+      "development": [
+        {
+          "text": "Dès leur entrée dans la jungle, ils rencontrèrent un perroquet arc-en-ciel qui les salua dans leur langue. 'Bienvenue, jeunes aventuriers !' dit l'oiseau. 'La jungle a besoin de votre aide.'"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/rainbow_parrot.jpg",
+          "description": "Le perroquet arc-en-ciel qui parle"
+        },
+        {
+          "text": "Le perroquet leur expliqua qu'un sortilège empêchait les arbres de produire leurs fruits magiques. Seule une mélodie particulière, jouée sur la flûte d'or cachée au cœur de la jungle, pouvait briser le sort."
+        }
+      ],
+      "middleImage": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/coloring_jungle.png",
+      "conclusion": [
+        {
+          "text": "Après avoir surmonté plusieurs épreuves avec l'aide des animaux de la jungle, Léo et Maya trouvèrent la flûte d'or. Maya joua la mélodie, et instantanément, les arbres se couvrirent de fruits étincelants."
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/magical_fruits.jpg",
+          "description": "Les arbres portant des fruits magiques"
+        }
+      ],
+      "moral": [
+        {
+          "text": "Cette aventure nous montre que la coopération et l'entraide peuvent accomplir des miracles. En travaillant ensemble, même les défis les plus difficiles peuvent être surmontés."
+        }
+      ]
+    }
+  },
+  {
+    "id": "story_3",
+    "title": "Le Jardin Secret des Papillons",
+    "description": "Une petite fille découvre un jardin magique où les papillons ont des messages importants à transmettre",
+    "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/butterfly_garden.jpg",
+    "category": "NATURE",
+    "content": {
+      "introduction": [
+        {
+          "text": "Dans un petit village entouré de collines, vivait une petite fille nommée Rose. Timide et rêveuse, elle adorait passer ses après-midi à observer la nature derrière sa maison."
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/rose_garden.jpg",
+          "description": "Rose dans son jardin"
+        }
+      ],
+      "development": [
+        {
+          "text": "Un jour, en suivant un papillon aux ailes bleues particulièrement brillantes, Rose découvrit une porte cachée derrière des rosiers sauvages. La porte s'ouvrit sur un jardin secret où des centaines de papillons de toutes les couleurs volaient en formant des motifs dans le ciel."
+        },
+        {
+          "text": "La reine des papillons s'approcha de Rose et lui expliqua : 'Nous protégeons l'équilibre de la nature. Mais un danger menace notre jardin - les fleurs commencent à perdre leur éclat.'"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/butterfly_queen.jpg",
+          "description": "La reine des papillons parlant à Rose"
+        }
+      ],
+      "middleImage": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/coloring_butterflies.png",
+      "conclusion": [
+        {
+          "text": "Rose apprit que le jardin avait besoin de chansons joyeuses pour retrouver sa vitalité. Elle commença à chanter chaque jour dans le jardin secret, et peu à peu, les fleurs retrouvèrent leurs couleurs éclatantes."
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/blooming_garden.jpg",
+          "description": "Le jardin secret en pleine floraison"
+        }
+      ],
+      "moral": [
+        {
+          "text": "Cette histoire nous enseigne que chaque être, même le plus petit et le plus discret, a un rôle important à jouer dans l'équilibre de la nature. Notre bonheur et notre joie peuvent avoir un impact positif sur le monde qui nous entoure."
+        }
+      ]
+    }
+  }
+]
