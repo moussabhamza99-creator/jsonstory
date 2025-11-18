@@ -1,49 +1,50 @@
 [
   {
-    "id": "story_1",
-    "title": "Le Dragon et la Princesse Courageuse",
-    "description": "Une aventure magique où une princesse découvre que les dragons ne sont pas ce qu'ils semblent être",
-    "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/imgs/8b19d40e71af67407988f30ff1c1f810c4a3a308/imgs1.jpg",
-    "category": "FAIRYTALE",
-    "content": {
-      "introduction": [
-        {
-          "text": "Il était une fois, dans un royaume lointain, une princesse nommée Élise qui n'avait pas peur des défis. Alors que tous les chevaliers du royaume tremblaient à l'idée d'affronter le dragon des montagnes, Élise décida de partir à sa rencontre."
-        },
-        {
-          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/princess_start.jpg",
-          "description": "La princesse Élise devant le château"
-        }
-      ],
-      "development": [
-        {
-          "text": "Après trois jours de marche dans la forêt enchantée, Élise arriva enfin au pied de la montagne du dragon. Contrairement à ce qu'on racontait, la grotte n'était pas sombre et effrayante, mais remplie de cristaux lumineux."
-        },
-        {
-          "text": "Le dragon, nommé Saphir, n'était pas un monstre cruel mais une créature solitaire qui protégeait un œuf magique. 'Les humains ont peur de ce qu'ils ne connaissent pas', expliqua Saphir d'une voix douce."
-        },
-        {
-          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/dragon_cave.jpg",
-          "description": "La grotte cristalline du dragon Saphir"
-        }
-      ],
-      "middleImage": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/coloring_dragon.png",
-      "conclusion": [
-        {
-          "text": "Élise et Saphir devinrent amis. La princesse retourna au château et expliqua à tous que le dragon n'était pas dangereux. Ensemble, ils organisèrent une grande fête où humains et créatures magiques apprirent à se connaître."
-        },
-        {
-          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/festival.jpg",
-          "description": "La grande fête du royaume"
-        }
-      ],
-      "moral": [
-        {
-          "text": "Cette histoire nous apprend qu'il ne faut pas juger les autres sur leur apparence ou sur les rumeurs. La véritable courage n'est pas de combattre ce qui nous fait peur, mais d'aller à sa rencontre pour mieux le comprendre."
-        }
-      ]
-    }
-  },
+  "id": "story_1",
+  "title": "The Pirate Who Feared Water",
+  "description": "Captain Barnaby Bubblebeard was brave, bold, and strong, with a beard that looked like a giant soap bubble. But he had one tiny, teeny, gigantic problem: he was terrified of water.",
+  "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/imgs/8b19d40e71af67407988f30ff1c1f810c4a3a308/imgs1.jpg",
+  "category": "Comedy",
+  "content": {
+    "introduction": [
+      {
+        "text": "Captain Barnaby Bubblebeard was the most unusual pirate the Seven Seas had ever seen. He had a shiny bubble-like beard and the loudest pirate laugh, but he feared one thing more than anything: water! A strange problem for a pirate who is supposed to sail the ocean."
+      },
+      {
+        "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/princess_start.jpg",
+        "description": "Captain Bubblebeard nervously watching the waves from the dock"
+      }
+    ],
+    "development": [
+      {
+        "text": "Every day, his crew begged him to board their ship, The Salty Pickle. But Bubblebeard shook his head wildly: 'Never! The waves are too big!' The crew stared… the waves were tiny. Even the fish looked bored."
+      },
+      {
+        "text": "One day, Squinty Sue, his first mate, had an idea: 'If the captain won’t go to the sea... we’ll bring the sea to him!' The next morning, the pirates created a giant puddle around the dock using buckets, barrels, and melted ice. Bubblebeard panicked: 'The ocean has come to get me!'"
+      },
+      {
+        "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/dragon_cave.jpg",
+        "description": "The pirates building a giant puddle around the dock"
+      }
+    ],
+    "middleImage": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/coloring_dragon.png",
+    "conclusion": [
+      {
+        "text": "A tiny crab pinched the captain’s toe, and he jumped backward—straight into the puddle! Splash! Bubblebeard shouted for help but soon realized he was perfectly fine. He wiggled his toes, then started splashing around happily. The next day, he bravely stepped onto The Salty Pickle and finally set sail with his crew!"
+      },
+      {
+        "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/festival.jpg",
+        "description": "Captain Bubblebeard finally sailing with his joyful pirate crew"
+      }
+    ],
+    "moral": [
+      {
+        "text": "Sometimes, the things we fear aren’t as scary once we take a small step—or a splash—toward them."
+      }
+    ]
+  }
+}
+
   {
     "id": "story_2",
     "title": "L'Expédition dans la Jungle Mystérieuse",
