@@ -1,54 +1,54 @@
 [
   {
-  "id": "story_1",
-  "title": "The Pirate Who Feared Water",
-  "description": "Captain Barnaby Bubblebeard was brave, bold, and strong, with a beard that looked like a giant soap bubble. But he had one tiny, teeny, gigantic problem: he was terrified of water.",
-  "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/imgs/8b19d40e71af67407988f30ff1c1f810c4a3a308/imgs1.jpg",
-  "category": "Comedy",
-  "content": {
-    "introduction": [
-      {
-        "text": "Captain Barnaby Bubblebeard was the most unusual pirate the Seven Seas had ever seen. He had a shiny bubble-like beard and the loudest pirate laugh, but he feared one thing more than anything: water! A strange problem for a pirate who is supposed to sail the ocean."
-      },
-      {
-        "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/princess_start.jpg",
-        "description": "Captain Bubblebeard nervously watching the waves from the dock"
-      }
-    ],
-    "development": [
-      {
-        "text": "Every day, his crew begged him to board their ship, The Salty Pickle. But Bubblebeard shook his head wildly: 'Never! The waves are too big!' The crew stared… the waves were tiny. Even the fish looked bored."
-      },
-      {
-        "text": "One day, Squinty Sue, his first mate, had an idea: 'If the captain won’t go to the sea... we’ll bring the sea to him!' The next morning, the pirates created a giant puddle around the dock using buckets, barrels, and melted ice. Bubblebeard panicked: 'The ocean has come to get me!'"
-      },
-      {
-        "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/dragon_cave.jpg",
-        "description": "The pirates building a giant puddle around the dock"
-      }
-    ],
-    "middleImage": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/coloring_dragon.png",
-    "conclusion": [
-      {
-        "text": "A tiny crab pinched the captain’s toe, and he jumped backward—straight into the puddle! Splash! Bubblebeard shouted for help but soon realized he was perfectly fine. He wiggled his toes, then started splashing around happily. The next day, he bravely stepped onto The Salty Pickle and finally set sail with his crew!"
-      },
-      {
-        "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/festival.jpg",
-        "description": "Captain Bubblebeard finally sailing with his joyful pirate crew"
-      }
-    ],
-    "moral": [
-      {
-        "text": "Sometimes, the things we fear aren’t as scary once we take a small step—or a splash—toward them."
-      }
-    ]
-  }
-},
+    "id": "story_1",
+    "title": "The Pirate Who Feared Water",
+    "description": "Captain Barnaby Bubblebeard was brave, bold, and strong, with a beard that looked like a giant soap bubble. But he had one tiny, teeny, gigantic problem: he was terrified of water.",
+    "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/imgs/8b19d40e71af67407988f30ff1c1f810c4a3a308/imgs1.jpg",
+    "category": "COMEDY",
+    "content": {
+      "introduction": [
+        {
+          "text": "Captain Barnaby Bubblebeard was the most unusual pirate the Seven Seas had ever seen. He had a shiny bubble-like beard and the loudest pirate laugh, but he feared one thing more than anything: water! A strange problem for a pirate who is supposed to sail the ocean."
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/princess_start.jpg",
+          "description": "Captain Bubblebeard nervously watching the waves from the dock"
+        }
+      ],
+      "development": [
+        {
+          "text": "Every day, his crew begged him to board their ship, The Salty Pickle. But Bubblebeard shook his head wildly: 'Never! The waves are too big!' The crew stared… the waves were tiny. Even the fish looked bored."
+        },
+        {
+          "text": "One day, Squinty Sue, his first mate, had an idea: 'If the captain won’t go to the sea... we’ll bring the sea to him!' The next morning, the pirates created a giant puddle around the dock using buckets, barrels, and melted ice. Bubblebeard panicked: 'The ocean has come to get me!'"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/dragon_cave.jpg",
+          "description": "The pirates building a giant puddle around the dock"
+        }
+      ],
+      "middleImage": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/coloring_dragon.png",
+      "conclusion": [
+        {
+          "text": "A tiny crab pinched the captain’s toe, and he jumped backward—straight into the puddle! Splash! Bubblebeard shouted for help but soon realized he was perfectly fine. He wiggled his toes, then started splashing around happily. The next day, he bravely stepped onto The Salty Pickle and finally set sail with his crew!"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/festival.jpg",
+          "description": "Captain Bubblebeard finally sailing with his joyful pirate crew"
+        }
+      ],
+      "moral": [
+        {
+          "text": "Sometimes, the things we fear aren’t as scary once we take a small step—or a splash—toward them."
+        }
+      ]
+    }
+  },
 
   {
     "id": "story_2",
     "title": "L'Expédition dans la Jungle Mystérieuse",
-    "description": "Deux jeunes explorateurs découvrent les secrets d'une jungle où les animaux parlent",
+    "description": "Deux jeunes explorateurs découvrent les secrets d'une jungle où les animaux parlent.",
     "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/jungle_adventure.jpg",
     "category": "ADVENTURE",
     "content": {
@@ -86,16 +86,17 @@
       ]
     }
   },
+
   {
     "id": "story_3",
     "title": "Le Jardin Secret des Papillons",
-    "description": "Une petite fille découvre un jardin magique où les papillons ont des messages importants à transmettre",
+    "description": "Une petite fille découvre un jardin magique où les papillons transmettent des messages importants.",
     "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/butterfly_garden.jpg",
     "category": "NATURE",
     "content": {
       "introduction": [
         {
-          "text": "Dans un petit village entouré de collines, vivait une petite fille nommée Rose. Timide et rêveuse, elle adorait passer ses après-midi à observer la nature derrière sa maison."
+          "text": "Dans un petit village entouré de collines vivait une petite fille nommée Rose. Timide et rêveuse, elle adorait passer ses après-midi à observer la nature."
         },
         {
           "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/rose_garden.jpg",
@@ -104,10 +105,10 @@
       ],
       "development": [
         {
-          "text": "Un jour, en suivant un papillon aux ailes bleues particulièrement brillantes, Rose découvrit une porte cachée derrière des rosiers sauvages. La porte s'ouvrit sur un jardin secret où des centaines de papillons de toutes les couleurs volaient en formant des motifs dans le ciel."
+          "text": "Un jour, en suivant un papillon aux ailes bleues brillantes, Rose découvrit une porte cachée derrière des rosiers sauvages. La porte s'ouvrit sur un jardin secret où des centaines de papillons volaient en formant des motifs dans le ciel."
         },
         {
-          "text": "La reine des papillons s'approcha de Rose et lui expliqua : 'Nous protégeons l'équilibre de la nature. Mais un danger menace notre jardin - les fleurs commencent à perdre leur éclat.'"
+          "text": "La reine des papillons s'approcha de Rose : 'Nous protégeons l'équilibre de la nature, mais un danger menace notre jardin : les fleurs perdent leur éclat.'"
         },
         {
           "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/butterfly_queen.jpg",
@@ -117,7 +118,7 @@
       "middleImage": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/coloring_butterflies.png",
       "conclusion": [
         {
-          "text": "Rose apprit que le jardin avait besoin de chansons joyeuses pour retrouver sa vitalité. Elle commença à chanter chaque jour dans le jardin secret, et peu à peu, les fleurs retrouvèrent leurs couleurs éclatantes."
+          "text": "Rose apprit que le jardin avait besoin de chansons joyeuses pour retrouver sa vitalité. Elle chanta chaque jour dans le jardin secret, et peu à peu, les fleurs retrouvèrent leurs couleurs éclatantes."
         },
         {
           "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/blooming_garden.jpg",
@@ -126,7 +127,7 @@
       ],
       "moral": [
         {
-          "text": "Cette histoire nous enseigne que chaque être, même le plus petit et le plus discret, a un rôle important à jouer dans l'équilibre de la nature. Notre bonheur et notre joie peuvent avoir un impact positif sur le monde qui nous entoure."
+          "text": "Cette histoire nous enseigne que même les plus petits gestes peuvent restaurer l'harmonie de la nature. La joie et la bonté ont le pouvoir d'embellir le monde."
         }
       ]
     }
