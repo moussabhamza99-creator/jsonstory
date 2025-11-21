@@ -1,48 +1,48 @@
 [
   {
     "id": "story_1",
-    "title": "⭐ The Pirate Who Feared Water",
-    "description": "Captain Barnaby Bubblebeard was the most unusual pirate to ever sail the Seven Seas. Well… almost sail.",
-    "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/imgs/1399090a7958f7815429909db272f83ea2b40a4d/cs1.png",
-    "category": "COMEDY",
+    "title": "The Laughing River",
+    "description": "A curious boy helps a grumpy troll rediscover the joy of laughter.",
+    "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/laughing_river.jpg",
+    "category": "FANTASY",
     "content": {
       "introduction": [
         {
-          "text": "Captain Barnaby Bubblebeard was the most unusual pirate to ever sail the Seven Seas. Well… almost sail. He was brave, bold, strong, and had a beard that looked like a giant soap bubble stuck to his chin. But there was one tiny, teeny, gigantic problem: Captain Bubblebeard was terrified of water. Not 'a little scared.' Not 'oh-no-my-shoes-will-get-wet' scared. He was hide-under-the-bed-if-it-rains scared. That made being a pirate… tricky."
+          "text": "In a peaceful valley surrounded by glowing mountains flowed the strangest river in the world. It laughed. Not a quiet giggle. Not a soft chuckle. But a big, bouncy, bubbly 'HA-HA-HA-HAAA!' that echoed across the sky every morning. Some people found it charming. Some found it annoying. And some—like little Nilo, the curious boy who lived nearby—wanted to know why the river laughed."
         },
         {
-          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/captain_bubblebeard.jpg",
-          "description": "Captain Bubblebeard with his soap bubble beard looking nervously at the ocean"
+          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/valley_river.jpg",
+          "description": "The peaceful valley with the glowing mountains and the Laughing River"
         }
       ],
       "development": [
         {
-          "text": "Every morning, his crew lined up on the dock beside his big, beautiful ship, The Salty Pickle. 'Captain!' shouted his first mate, Squinty Sue. 'The waves are calm today. Time to set sail!' Captain Bubblebeard peeked at the ocean and squeaked, 'Absolutely not! Look at those waves! They're enormous! That one is… at least three centimeters tall!' The crew sighed. The waves were tiny. Even the fish were bored."
+          "text": "Every morning, Nilo ran outside with his wooden bucket. He didn't need the water. He just loved listening to the river roar with laughter. But one day, the laugh sounded weaker. 'Are you okay?' Nilo asked. The river burbled sadly. 'No... something's blocking my laughter. It feels like someone stuffed socks in my waterfalls.' Nilo gasped. Only one creature would dare such mischief: The Grumpy Mountain Troll."
         },
         {
-          "text": "The pirates gathered behind the captain's back. 'We'll never find treasure if the captain refuses to touch water,' whispered Tiny Tim. So Squinty Sue clapped her hands. 'I've got an idea! We'll bring the ocean to him!' The next morning, the pirates had built a town-sized puddle using buckets of water, rain barrels, bathtub water, and even melted ice from Jack's lemonade."
+          "text": "Nilo confronted the troll who lived high above the valley. 'You're too noisy!' the troll grumbled. 'I plugged your waterfalls with giant socks!' Nilo saw the troll's huge, mossy feet. 'You mean—your socks?' The troll nodded proudly. 'They're very effective! And extremely smelly!'"
         },
         {
-          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/pirate_puddle.jpg",
-          "description": "The crew standing around the giant puddle they created on the dock"
+          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/grumpy_troll.jpg",
+          "description": "The Grumpy Mountain Troll pointing at his smelly socks"
         }
       ],
-      "middleImage": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/coloring_pirate.png",
+      "middleImage": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/coloring_river.png",
       "conclusion": [
         {
-          "text": "Just then, a tiny crab crawled over and pinched Captain Bubblebeard's big toe. 'YEEEOW!' He hopped backward—right into the giant puddle. SPLOOOSH! The captain screamed like he was sinking to the bottom of the real ocean. 'HELP! I AM BEING EATEN BY WATER!' 'Captain,' Sue said gently, 'you're standing.' Bubblebeard opened one eye. 'Oh.' He wiggled his toes. The water felt… not so bad. Actually, kind of nice."
+          "text": "Nilo tried everything to make the troll laugh. He told jokes, made silly faces, and danced like a confused chicken. Nothing worked. So Nilo tried one last thing. He splashed the troll with water from the Laughing River. The troll gasped, blinked, and then his belly trembled. 'HAHAHAHAHA—WHAT IS THIS FEELING?!' 'You're laughing!' Nilo cheered. The laughter made the troll's heart feel warm, and he admitted, 'I... I don't hate this. It's... nice.' He removed his giant socks from the waterfalls."
         },
         {
-          "text": "Soon he was stomping around, splashing like a joyful toddler. 'Ha HA!' he shouted, soaked but smiling. 'I, Captain Barnaby Bubblebeard, have conquered the ocean puddle!' The next day, the captain marched onto The Salty Pickle with confidence. The crew cheered as they raised the anchor and unfurled the sails. The ship glided into the sparkling sea."
+          "text": "FOOOOM! Water rushed freely again. The river immediately burst into powerful laughter: 'HA-HAAA! I CAN BREATHE AGAIN!' The valley echoed with joyful sound. From that day on, the troll became the valley's official Keeper of Giggles, washing his socks and practicing laughter with Nilo every evening."
         },
         {
-          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/setting_sail.jpg",
-          "description": "The Salty Pickle finally sailing away with Captain Bubblebeard at the helm"
+          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/troll_laughing.jpg",
+          "description": "Nilo and the troll laughing together by the river"
         }
       ],
       "moral": [
         {
-          "text": "Sometimes the things we fear aren't as scary once we take a small step—or a splash—toward them."
+          "text": "Joy grows when it's shared. Sometimes, even the grumpiest hearts just need a little laughter to shine again."
         }
       ]
     }
