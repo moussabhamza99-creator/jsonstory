@@ -1,54 +1,54 @@
 [
-  {
+   {
     "id": "story_1",
-    "title": "The Laughing River",
-    "description": "A curious boy helps a grumpy troll rediscover the joy of laughter.",
-    "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/laughing_river.jpg",
-    "category": "FANTASY",
+    "title": "🌙 Noor and the Moon Merchant",
+    "description": "Every night, a mysterious merchant sells glowing pieces of the moon. Noor soon discovers the moon is truly disappearing—and only she can save it.",
+    "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/imgs/1784785a161e2993475189371f2f9fe4d8c73b2c/s1c.png",
+    "category": "MAGICAL",
     "content": {
       "introduction": [
         {
-          "text": "In a peaceful valley surrounded by glowing mountains flowed the strangest river in the world. It laughed. Not a quiet giggle. Not a soft chuckle. But a big, bouncy, bubbly 'HA-HA-HA-HAAA!' that echoed across the sky every morning. Some people found it charming. Some found it annoying. And some—like little Nilo, the curious boy who lived nearby—wanted to know why the river laughed."
+          "text": "Noor loved watching the night sky from her rooftop. One evening, as she gazed at the silver moon, a soft jingle echoed through the streets. A small cart rolled by, glowing like stardust. Behind it walked a mysterious man with shimmering robes. 'Moon pieces! Moon pieces for bright dreams!' he called. Noor blinked. Moon pieces? Was that even possible?"
         },
         {
-          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/valley_river.jpg",
-          "description": "The peaceful valley with the glowing mountains and the Laughing River"
+          "imageUrl": "https://github.com/moussabhamza99-creator/imgs/raw/849ec46821900a120212a86964345e0d19dcb6b7/s1img1.png",
+          "description": "Noor watching the glowing cart of the Moon Merchant under the night sky"
         }
       ],
       "development": [
         {
-          "text": "Every morning, Nilo ran outside with his wooden bucket. He didn't need the water. He just loved listening to the river roar with laughter. But one day, the laugh sounded weaker. 'Are you okay?' Nilo asked. The river burbled sadly. 'No... something's blocking my laughter. It feels like someone stuffed socks in my waterfalls.' Nilo gasped. Only one creature would dare such mischief: The Grumpy Mountain Troll."
+          "text": "Curious, Noor approached the cart. Inside were tiny glowing shards—just like pieces of the real moon. 'Are these real?' she whispered. The merchant smiled kindly. 'Of course, child. A small piece of moonlight for a small price.' Noor bought a tiny shard and held it tight. But when she looked up, she gasped. A tiny piece of the moon in the sky was missing… exactly where her shard fit."
         },
         {
-          "text": "Nilo confronted the troll who lived high above the valley. 'You're too noisy!' the troll grumbled. 'I plugged your waterfalls with giant socks!' Nilo saw the troll's huge, mossy feet. 'You mean—your socks?' The troll nodded proudly. 'They're very effective! And extremely smelly!'"
+          "text": "The next nights, Noor watched as the moon grew thinner and weaker. The merchant kept selling more pieces, and the moon kept shrinking. 'If he continues,' Noor thought, 'there will be no moon left!' Determined, she followed him up a hidden hill. At the top, she found a glowing workshop full of tools, jars of starlight, and a map of the sky. The merchant sighed, holding a nearly empty moon mold. 'I never meant harm,' he said. 'Children love moonlight. But now… I cannot fix it alone.'"
         },
         {
-          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/grumpy_troll.jpg",
-          "description": "The Grumpy Mountain Troll pointing at his smelly socks"
+          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/imgs/81bc09bb0a17a609707a265138515a407d46814c/s1img2.png",
+          "description": "Noor discovering the Moon Merchant’s glowing workshop filled with starlight jars"
         }
       ],
-      "middleImage": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/coloring_river.png",
+      "middleImage": "https://raw.githubusercontent.com/moussabhamza99-creator/imgs/81bc09bb0a17a609707a265138515a407d46814c/s1img3.png",
       "conclusion": [
         {
-          "text": "Nilo tried everything to make the troll laugh. He told jokes, made silly faces, and danced like a confused chicken. Nothing worked. So Nilo tried one last thing. He splashed the troll with water from the Laughing River. The troll gasped, blinked, and then his belly trembled. 'HAHAHAHAHA—WHAT IS THIS FEELING?!' 'You're laughing!' Nilo cheered. The laughter made the troll's heart feel warm, and he admitted, 'I... I don't hate this. It's... nice.' He removed his giant socks from the waterfalls."
+          "text": "Noor stepped forward bravely. 'I'll help.' She placed her small moon shard into the mold. It glowed brightly, stronger than all the others. Together, Noor and the merchant gathered the sold moon pieces from every sleeping child, replacing each with a warm dream star. Noor carried them back up the hill as the mold filled with shimmering moonlight."
         },
         {
-          "text": "FOOOOM! Water rushed freely again. The river immediately burst into powerful laughter: 'HA-HAAA! I CAN BREATHE AGAIN!' The valley echoed with joyful sound. From that day on, the troll became the valley's official Keeper of Giggles, washing his socks and practicing laughter with Nilo every evening."
+          "text": "At dawn, the merchant lifted the mold to the sky. WHOOM! The moon reignited, glowing fuller and brighter than ever. Noor laughed with relief. 'You saved it,' the merchant said. But Noor shook her head. 'We saved it.' And that night, the moon shone with a special glow—one shaped like a tiny heart, just for her."
         },
         {
-          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/jsonstory/main/images/troll_laughing.jpg",
-          "description": "Nilo and the troll laughing together by the river"
+          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/imgs/81bc09bb0a17a609707a265138515a407d46814c/s1img4.png",
+          "description": "The moon shining brightly again as Noor smiles under its restored glow"
         }
       ],
       "moral": [
         {
-          "text": "Joy grows when it's shared. Sometimes, even the grumpiest hearts just need a little laughter to shine again."
+          "text": "A small act of courage can bring back the light for everyone."
         }
       ]
     }
   },
    {
-    "id": "story_1",
+    "id": "story_2",
     "title": "⭐ The Pirate Who Feared Water",
     "description": "Captain Barnaby Bubblebeard was the most unusual pirate to ever sail the Seven Seas. Well… almost sail.",
     "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/imgs/1399090a7958f7815429909db272f83ea2b40a4d/cs1.png",
