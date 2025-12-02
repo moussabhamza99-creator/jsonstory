@@ -94,5 +94,53 @@
         }
       ]
     }
+  },
+    {
+    "id": "story_3",
+    "title": "📚 Timeo and the Library of Living Books",
+    "description": "Timeo discovers a magical library where books walk, talk, and think. When a dangerous storm book escapes, he must jump into its world to save the library.",
+    "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/imgs/main/timeo_cover.png",
+    "category": "ADVENTURE–FANTASY",
+    "content": {
+      "introduction": [
+        {
+          "text": "Timeo loved stories more than anything. One windy afternoon, he discovered a mysterious wooden door squeezed between two old shops: The Library of Living Books. Inside, books floated like colorful birds, chattered, stretched, and even waddled. A golden book named Master Index welcomed him warmly."
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/imgs/main/timeo_intro.png",
+          "description": "Timeo entering the magical library filled with floating, talking books."
+        }
+      ],
+      "development": [
+        {
+          "text": "Before Timeo could explore, a loud BOOM echoed through the shelves. A red glowing book—The Book of Untamed Storms—burst out of a locked cabinet and escaped through the window. 'This is bad,' whispered Master Index. 'That book can create chaos!' Timeo bravely agreed to jump into the book's story to stop it."
+        },
+        {
+          "text": "Master Index opened a swirling portal shaped like a turning page. Timeo dove through and landed inside a world of swirling clouds, thunder beasts, and lightning dragons. A tiny tornado guided him toward a crackling mountain where the runaway book trembled, frightened and unfinished."
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/imgs/main/timeo_chasing_book.png",
+          "description": "Timeo running through a stormy fantasy world chasing the glowing red storm book."
+        }
+      ],
+      "middleImage": "https://raw.githubusercontent.com/moussabhamza99-creator/imgs/main/coloring_timeo.png",
+      "conclusion": [
+        {
+          "text": "Timeo reached the top of the stormy mountain and found the book crying. It didn’t want to hurt anyone—it just wanted an ending. Timeo took out his pencil and helped complete its story. The storm world calmed down, turning peaceful and bright."
+        },
+        {
+          "text": "A glowing door returned Timeo to the library. Master Index thanked him for saving the library and completing a lost story. Timeo became an honorary Keeper of Living Books, waving goodbye to dozens of friendly, floating books as he left. His adventure was only beginning."
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/imgs/main/timeo_library_end.png",
+          "description": "Timeo returning to the magical library, surrounded by happy floating books."
+        }
+      ],
+      "moral": [
+        {
+          "text": "Every story has power, and anyone—big or small—can help shape its ending."
+        }
+      ]
+    }
   }
 ]
