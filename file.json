@@ -142,5 +142,57 @@
         }
       ]
     }
+  },
+     {
+    "id": "story_4",
+    "title": "🌿 The Watch That Made Plants Grow",
+    "description": "An old watch allows Elina to make plants grow instantly. She creates a jungle in her bedroom… and must control it before it takes over the whole town.",
+    "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/imgs/main/elina_cover.png",
+    "category": "SOFT_SCIENCE_FICTION",
+    "content": {
+      "introduction": [
+        {
+          "text": "Elina loved two things more than anything: plants and old gadgets. One day in her grandpa’s workshop, she discovered a mysterious silver pocket watch engraved with tiny leaves. Grandpa told her she could keep it, even though he never figured out how it worked."
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/imgs/main/elina_intro.png",
+          "description": "Elina discovering the glowing leaf-engraved silver watch in her grandfather’s dusty workshop",
+          "prompt": "A warm, cozy workshop filled with tools and plants. A young girl holding an old silver pocket watch that glows green, tiny leaf engravings, soft sunlight through the window, magical atmosphere, children's book illustration."
+        }
+      ],
+      "development": [
+        {
+          "text": "That evening, when Elina pressed the watch’s button, it glowed bright green. Suddenly, her tiny cactus shot upward, blooming a giant pink flower. Every plant she pointed the watch at exploded with growth. By morning, her entire bedroom had turned into a jungle."
+        },
+        {
+          "text": "But things went wrong fast. Vines pushed through her window and spread across the neighborhood. Trees grew in seconds. Bushes swallowed mailboxes. The entire town was turning into a forest, and Elina had no idea how to stop it."
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/imgs/main/elina_dev.png",
+          "description": "Elina standing in her bedroom as plants explode with growth all around her, creating a mini jungle",
+          "prompt": "A child's bedroom transformed into a dense magical jungle. Vines hanging from the ceiling, huge flowers, plants growing uncontrollably. A surprised girl holding a glowing green watch. Bright, playful children's book art."
+        }
+      ],
+      "middleImage": "https://raw.githubusercontent.com/moussabhamza99-creator/imgs/main/elina_coloring.png",
+      "middlePrompt": "Coloring-book line art of Elina holding a glowing watch as plants grow wildly around her. Clean outlines, no shading, suitable for children’s coloring pages.",
+      "conclusion": [
+        {
+          "text": "Elina discovered a hidden engraving inside the watch: 'Growth needs balance.' She flipped a tiny switch she hadn’t seen before, turning the green glow blue. When she pressed the button again, the plants shrank instead of growing. She ran through the streets restoring everything to normal."
+        },
+        {
+          "text": "By evening, the town was saved. Grandpa revealed that the watch was meant to help people heal forests and grow food responsibly. Elina promised to use it carefully from now on—and maybe grow something beautiful, but not a jungle in her room."
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/imgs/main/elina_end.png",
+          "description": "Elina using the blue-glowing watch to shrink vines and save the town",
+          "prompt": "A girl aiming a glowing blue watch at giant plants as they shrink back into normal size. Town background returning to normal. Soft sci-fi magic, bright children’s illustration."
+        }
+      ],
+      "moral": [
+        {
+          "text": "Power is wonderful—but only when used with balance and responsibility."
+        }
+      ]
+    }
   }
 ]
