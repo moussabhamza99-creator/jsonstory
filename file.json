@@ -194,5 +194,58 @@
         }
       ]
     }
+  },
+   {
+  "id": "story_5",
+  "title": "☁️ The Little Cloud Explorers",
+  "description": "Three young clouds want to discover the earth. They float too low, meet animals, and discover the beauty of the world—but risk turning into rain forever.",
+  "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/imgs/main/clouds_cover.png",
+  "category": "POETIC_ADVENTURE",
+  "content": {
+    "introduction": [
+      {
+        "text": "High above the world, where the sky was soft and blue, floated three little clouds named Puff, Luna, and Milo. They were young, fluffy, and full of curiosity. Every day, they watched the earth below and wondered what it felt like to be so close to it."
+      },
+      {
+        "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/imgs/main/clouds_intro.png",
+        "description": "Three small fluffy clouds floating happily in a bright blue sky",
+        "prompt": "Children's book illustration of three cute, fluffy clouds with friendly faces floating in a bright blue sky. Soft pastel colors, dreamy and poetic mood, gentle sunlight, whimsical style."
+      }
+    ],
+    "development": [
+      {
+        "text": "One morning, the little clouds decided to explore. They floated lower and lower until they could see green fields, winding rivers, and tiny houses. Birds flew beside them, chirping hello, and the clouds giggled as the wind tickled their edges."
+      },
+      {
+        "text": "As they drifted even closer, they met animals on the ground. A giraffe stretched its long neck toward them. Sheep watched them pass. A curious fox waved its tail. But the air felt warmer, and the clouds began to feel heavy."
+      },
+      {
+        "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/imgs/main/clouds_dev.png",
+        "description": "The clouds floating low over fields and animals, beginning to feel heavy",
+        "prompt": "Poetic children's illustration of three small clouds floating low above fields with animals like a giraffe, sheep, and a fox. Warm colors, soft light, dreamy adventure atmosphere."
+      }
+    ],
+    "middleImage": "https://raw.githubusercontent.com/moussabhamza99-creator/imgs/main/clouds_coloring.png",
+    "middlePrompt": "Coloring-book line art of three smiling clouds floating above animals and fields. Black and white, clean outlines, simple shapes, no shading, suitable for children.",
+    "conclusion": [
+      {
+        "text": "Suddenly, Puff felt a drip fall from his belly. Luna shimmered, growing smaller. Milo gasped. They were turning into rain! Remembering the wind’s whisper, they held on tightly and let the breeze lift them upward."
+      },
+      {
+        "text": "The clouds rose back into the cool sky, safe and light once more. They waved goodbye to the earth below, knowing they could visit again—just not for too long. From that day on, they explored wisely, dancing between sky and ground."
+      },
+      {
+        "imageUrl": "https://raw.githubusercontent.com/moussabhamza99-creator/imgs/main/clouds_end.png",
+        "description": "The little clouds floating back up into the sky, safe and smiling",
+        "prompt": "Children's book illustration of three small clouds floating back into the sky, smiling with relief. Soft blue tones, gentle wind lines, peaceful and poetic ending."
+      }
+    ],
+    "moral": [
+      {
+        "text": "Curiosity is beautiful—but knowing your limits keeps you safe."
+      }
+    ]
   }
+}
+
 ]
